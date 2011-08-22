@@ -1,0 +1,1 @@
+java -classpath CC_Auto_Install.jar JRadioButtonDemo
